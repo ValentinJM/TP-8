@@ -1,0 +1,4 @@
+```mermaid
+graph TD;
+     Main-->Entero N
+     Entero N
